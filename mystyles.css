@@ -1,0 +1,51 @@
+
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration:underline;
+  }
+p{
+  text-align: center;
+  color: #A30F09;
+}
+h3{
+  text-align: center;
+  font-size: 20px;
+  color:#A30F09;
+}
+h4{
+  text-align: center;
+  font-size: 20px;
+  color:#A30F09;
+}
+hgroup{
+  text-align: center;
+  font-size: 20px;
+  color: #A30F09;
+}
+body{
+  background:lightblue;
+  font-size: 20px;
+}
+#intro{
+  color: #740772;
+}
+#name{
+  color:green;
+  font-size: 40px;
+}
+#welcome{
+  color: purple;
+  font-size: 30px;
+  text-align: center;
+}
+img{
+  float:none;
+}
+#names{
+  color: black;
+}
+div {
+  border-width: 10px;
+  border-style: groove;
+}
